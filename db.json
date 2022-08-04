@@ -1,0 +1,30 @@
+{"posts":[
+  {
+    "id": 1 ,
+    "category":"Tecnologia",
+    "title": "O guia definitivo sobre o blog",
+    "resume":"Mussum Ipsum",
+    "description":"Mussum Ipsum, cacilds vidis litro abertis. Quem num gosta di mé, boa gentis num é.A ordem dos tratores não altera o pão duris.In elementis mé pra quem é amistosis quis leo.Cevadis im ampola pa arma uma pindureta.",
+    "author":"Fulano de Tal",
+    "date":"Aug 4, 2020"
+  },
+  {
+    "id": 2 ,
+    "category":"Fotografia",
+    "title": "Quais as melhores câmeras em 2021?",
+    "resume":"Mussum Ipsum",
+    "description":"Mussum Ipsum, cacilds vidis litro abertis. Quem num gosta di mé, boa gentis num é.A ordem dos tratores não altera o pão duris.In elementis mé pra quem é amistosis quis leo.Cevadis im ampola pa arma uma pindureta.",
+    "author":"Ciclano de Tal",
+    "date":"Aug 5, 2020"
+  },
+  {
+    "id": 3 ,
+    "category":"Cinema",
+    "title": "Os 10 filmes com maior bilheteria",
+    "resume":"Mussum Ipsum",
+    "description":"Mussum Ipsum, cacilds vidis litro abertis. Quem num gosta di mé, boa gentis num é.A ordem dos tratores não altera o pão duris.In elementis mé pra quem é amistosis quis leo.Cevadis im ampola pa arma uma pindureta.",
+    "author":"Beltrano de Tal",
+    "date":"Aug 6, 2020"
+  }
+]
+}
